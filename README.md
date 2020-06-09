@@ -1,4 +1,4 @@
-# Calculator-github-actions
+# Calculator-GitHub-Actions
 
 This repo is just the final version on how to test and deploy an iOS project using exclusively Github Actions.
 
